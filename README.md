@@ -8,7 +8,9 @@
 <img alt="aws" src ="https://img.shields.io/badge/Amazon Aws-232F3E.svg?&style=for-the-badge&logo=Amazon&logoColor=white"/>
 <img alt="sql" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
+
 ![myounghaklee's github stats](https://github-readme-stats.vercel.app/api?username=myounghaklee&show_icons=true)
+
 - 🔭 I’m currently working on `Maxst` for BackEnd Engineer
 - 🌱 I’m currently learning Hexagonal Architecture & QueryDsl & Aws SES
 
