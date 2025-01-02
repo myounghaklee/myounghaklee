@@ -11,7 +11,7 @@
 
 ![myounghaklee's github stats](https://github-readme-stats.vercel.app/api?username=myounghaklee&show_icons=true)
 
-- 🔭 I’m currently working on `Maxst` for BackEnd Engineer
+- 🔭 I’m currently working for BackEnd Engineer
 - 🌱 I’m currently learning Hexagonal Architecture & QueryDsl & Aws SES
 
 
